@@ -1,0 +1,57 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:transmogrifier="http://namespaces.plone.org/transmogrifier"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="transmogrify.joomla2nitf">
+
+  <!-- Load all the zcml slugs from the packages named in
+       ``install_requires``. We avoid having to load transmogrifier
+       manually by doing this.
+
+       If you aren't z3c.autoinclude enabled, then add the
+       following to your configure.zcml:
+       
+       <include package="collective.transmogrifier" />
+       <include package="collective.transmogrifier" file="meta.zcml" />
+  -->       
+  <includeDependencies package="." />
+
+  <genericsetup:registerProfile
+      name="default"
+      title="transmogrify.joomla2nitf"
+      directory="profiles/default"
+      description="Installs the transmogrify.joomla2nitf package"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+  <!-- Transmogrifier configurations -->
+
+  <transmogrifier:registerConfig
+      name="transmogrify.joomla2nitf.base"
+      title="My migration base config"
+      description="Base settings for all transmogrifier imports"
+      configuration="config/base.cfg"
+      />
+      
+  <transmogrifier:registerConfig
+      name="transmogrify.joomla2nitf.articles"
+      title="Joomla! articles"
+      description="Import articles from Joomla! into Plone"
+      configuration="config/articles.cfg"
+      />
+      
+  <transmogrifier:registerConfig
+      name="transmogrify.joomla2nitf.newsitem2nitf"
+      title="News Item to nitf sections"
+      description="Convert Plone content type from News Item to nitf into Plone"
+      configuration="config/newsitem2nitf.cfg"
+      />
+      
+  <transmogrifier:registerConfig
+      name="transmogrify.joomla2nitf.sections"
+      title="Joomla! sections"
+      description="Import sections from Joomla! into Plone"
+      configuration="config/sections.cfg"
+      />
+      
+</configure>

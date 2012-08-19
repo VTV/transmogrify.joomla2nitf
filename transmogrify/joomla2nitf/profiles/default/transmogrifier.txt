@@ -1,0 +1,3 @@
+transmogrify.joomla2nitf.articles
+transmogrify.joomla2nitf.newsitem2nitf
+transmogrify.joomla2nitf.sections
