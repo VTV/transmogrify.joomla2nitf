@@ -1,0 +1,12 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    i18n_domain="collective.transmogrifier">
+
+  <!-- common utilities 
+      
+  <utility
+      component="transmogrify.joomla2nitf.blueprints.article2nitfxml.Article2NitfXml"
+      name="transmogrify.joomla2nitf.blueprints.article2nitfxml"
+      />
+      -->
+</configure>

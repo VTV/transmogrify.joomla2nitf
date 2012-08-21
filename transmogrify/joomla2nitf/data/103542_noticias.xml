@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+				<!DOCTYPE nitf SYSTEM "http://www.iptc.org/std/NITF/3.5/specification/nitf-3-5.dtd">
+				<nitf change.date="September 11, 2009" change.time="12:26" version="-//IPTC//DTD NITF 3.5//EN">					
+					<head>
+					<!-- titulo de la pagina -->
+						<title>Panamá niega extradición de prófugo venezolano acusado de homicidio</title>
+						<tobject tobject.type="news">
+							<tobject.property tobject.property.type="Current"/>
+						</tobject>
+						<!-- this article is an update of a previous release -->				
+						<docdata management-status="usable">						
+							<!-- the document id, which should be unique per publisher -->
+							<!-- url id de la noticia -->
+							<doc-id id-string="Panama-niega-extradicion-de-profugo-venezolano-acusado-de-homicidio"/>
+							<!-- XXX: event location: where events in this document took place -->
+							<evloc city="" state-prov="" iso-cc=""></evloc>
+							<urgency ed-urg="5"/>
+							<!-- TODO: date.issue: when the document was sent to a receiver -->
+							<date.issue norm=""/>
+							<date.release norm="20120203T193726-0530"/>							
+							<doc.copyright/>
+							<doc.rights></doc.rights>
+							<key-list><keyword key="Panama"/><keyword key="Panama"/><keyword key="niega"/><keyword key="extradicion"/><keyword key="profugo"/><keyword key="venezolano"/><keyword key="acusado"/><keyword key="homicidio"/></key-list><identified-content/>
+						</docdata>
+						<pubdata type="web" name="" position.section="Latinoamérica" ex-ref=""/>
+						<revision-history/>
+					</head>
+					<body>				
+						<body.head>
+							<hedline>
+								<hl1>Panamá niega extradición de prófugo venezolano acusado de homicidio</hl1>								
+							</hedline>							
+							<distributor/>
+							<dateline>
+								<location>Venezuela</location>
+							</dateline>				
+							<abstract>
+							<p>El Gobierno de Panamá se negó este viernes a extraditar al prófugo de la justicia venezolana Nixón Moreno y le concedió asilo territorial argumentando la preocupación por la seguridad de quien es acusado, en su país, de homicidio intencional y actos violentos contra agentes policiales.
+</p> 								
+							</abstract>
+						</body.head>
+						<body.content>
+				<media media-type="image">
+					<media-reference mime-type="image/jpeg" source="http://exwebserv.telesurtv.net/multimedia/imagenes/IMG_ORIG_INTERNA_GRANDE_700x466_74502101.jpg" alternate-text="IMG_ORIG_INTERNA_GRANDE_700x466_74502101.jpg" height="466" width="700" />
+					<media-caption>En 2007 Moreno se refugió en la embajada del Vaticano, que le dio asilo político, de donde salió el 9 de marzo de 2009. (Foto: Archivo) </media-caption>
+				</media>
+					<media media-type="image">
+						<media-reference mime-type="image/jpeg" source="http://exwebserv.telesurtv.net/multimedia/imagenes/IMG_ORIG_INTERNA_GRANDE_700x466_62902954.jpg" alternate-text="IMG_ORIG_INTERNA_GRANDE_700x466_62902954.jpg" height="466" width="700" />
+						<media-caption></media-caption>
+					</media>
+					<media media-type="image">
+						<media-reference mime-type="image/jpeg" source="http://exwebserv.telesurtv.net/multimedia/imagenes/IMG_ORIG_INTERNA_GRANDE_700x466_74503178.jpg" alternate-text="IMG_ORIG_INTERNA_GRANDE_700x466_74503178.jpg" height="466" width="700" />
+						<media-caption></media-caption>
+					</media><media media-type="video"><media-reference mime-type="video/mp4" source="http://media.tlsur.net/clips/telesur-video-2012-02-03-160946391814.mp4" alternate-text= "http://media.tlsur.net/clips/telesur-video-2012-02-03-160946391814.mp4" />
+								<media-caption xml:lang = "es-ES">Tras la negativa de Panamá a extraditar a Colombia a María del Pilar Hurtado, ex directora del DAS durante la presidencia de Álvaro Uribe, el cole...</media-caption>
+							 </media>	         
+					<p>El Gobierno de Panamá se negó este viernes a extraditar al prófugo de la justicia venezolana Nixón Moreno y le concedió asilo territorial argumentando la "preocupación" por la "seguridad" de quien es acusado, en su país, de homicidio intencional y actos violentos contra agentes policiales.</p><p>La noticia fue ratificada por un comunicado de la Cancillería de la nación centroamericana, que indicó que el asilo a Moreno se otorgó "siguiendo esa tradición del Estado Panameño".</p><p>"Moreno ingresó a nuestro territorio y mediante nota de 21 de octubre de 2011", solicitó al Gobierno de Panamá "se le concediera la condición de asilado territorial debido a la preocupación por su integridad personal en caso de retornar a su país de origen", afirmó la Cancillería.</p><p>Desde el año 2006, la justicia venezolana abrió un procedimiento en contra de Moreno. Este opositor venezolano fue acusado por homicidio intencional y actos lascivos violentos contra agentes policiales.</p><p>Actualmente, contra él existe una alerta roja en el sitio de la Policía Internacional (Interpol) que lo busca por "fugitivo, vandalismo y daños y delitos sexuales". No obstante, sus abogados niegan estas acusaciones.</p><p>En 2007 Moreno se refugió en la embajada del Vaticano, que le dio asilo político, de donde salió el 9 de marzo de 2009, luego que Caracas se negara a expedirle un salvoconducto.</p><p>Posteriormente, el 13 de agosto de ese año apareció en la capital de Perú, cuyo Gobierno le otorgó refugio hasta que asumió el poder, en julio pasado, el presidente Ollanta Humala.</p><p>En ese momento, el prófugo viajó a Panamá y desde esa época ha denunciado que como "corre peligro" en su país natal, ameritaba un asilo político en la nación centroamericana.</p><p>Previo a notificar la decisión sobre Moreno, Panamá también ratificó el asilo territorial a la exdirectora del Departamento Administrativo de Seguridad (DAS) de Colombia, María del Pilar Hurtado, acusada de participar en un caso de interceptaciones telefónicas ilegales contra periodistas, activistas humanitarios y opositores del Gobierno de Álvaro Uribe.</p><p>El asilo a Hurtado fue criticado por el colectivo de abogados José Alvear Restrepo, cuyo representante, Luis Guillermo Pérez, anunció a teleSUR que denunciará al Estado panameño por tomar una decisión que no sólo viola la democracia de Colombia sino que "es una profunda ofensa" a la sociedad de ese país suramericano.</p> 
+						</body.content>						
+					</body>
+				</nitf>
+				

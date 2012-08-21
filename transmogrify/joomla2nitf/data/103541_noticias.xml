@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+				<!DOCTYPE nitf SYSTEM "http://www.iptc.org/std/NITF/3.5/specification/nitf-3-5.dtd">
+				<nitf change.date="September 11, 2009" change.time="12:26" version="-//IPTC//DTD NITF 3.5//EN">					
+					<head>
+					<!-- titulo de la pagina -->
+						<title>Bloqueo de EE.UU. a Cuba cumple 50 años con pérdidas de al menos 975 mil millones de dólares</title>
+						<tobject tobject.type="news">
+							<tobject.property tobject.property.type="Current"/>
+						</tobject>
+						<!-- this article is an update of a previous release -->				
+						<docdata management-status="usable">						
+							<!-- the document id, which should be unique per publisher -->
+							<!-- url id de la noticia -->
+							<doc-id id-string="Bloqueo-de-EE.UU.-a-Cuba-cumple-50-anos-con-perdidas-de-al-menos-975-mil-millones-de-dolares"/>
+							<!-- XXX: event location: where events in this document took place -->
+							<evloc city="" state-prov="" iso-cc=""></evloc>
+							<urgency ed-urg="5"/>
+							<!-- TODO: date.issue: when the document was sent to a receiver -->
+							<date.issue norm=""/>
+							<date.release norm="20120203T192624-0530"/>							
+							<doc.copyright/>
+							<doc.rights></doc.rights>
+							<key-list><keyword key="Cuba"/><keyword key="Bloqueo"/><keyword key="EE.UU."/><keyword key="Cuba"/><keyword key="cumple"/><keyword key="anos"/><keyword key="perdidas"/><keyword key="menos"/><keyword key="mil"/><keyword key="millones"/><keyword key="dolares"/></key-list><identified-content/>
+						</docdata>
+						<pubdata type="web" name="" position.section="Latinoamérica" ex-ref=""/>
+						<revision-history/>
+					</head>
+					<body>				
+						<body.head>
+							<hedline>
+								<hl1>Bloqueo de EE.UU. a Cuba cumple 50 años con pérdidas de al menos 975 mil millones de dólares</hl1>								
+							</hedline>							
+							<distributor/>
+							<dateline>
+								<location>Venezuela</location>
+							</dateline>				
+							<abstract>
+							<p>Cinco décadas se cumplen este viernes de la Proclama 3447 emitida por el fallecido presidente de Estados Unidos (EE.UU.), Jonh F. Kennedy, mediante la cual se propició un bloqueo económico y comercial contra Cuba, cuyas pérdidas son calculadas en unos 975 mil millones de dólares si se toma en consideración la depreciación del dólar frente al valor del oro.</p> 								
+							</abstract>
+						</body.head>
+						<body.content>
+				<media media-type="image">
+					<media-reference mime-type="image/jpeg" source="http://exwebserv.telesurtv.net/multimedia/imagenes/IMG_ORIG_INTERNA_GRANDE_700x466_74501301.jpg" alternate-text="IMG_ORIG_INTERNA_GRANDE_700x466_74501301.jpg" height="466" width="700" />
+					<media-caption>Estados Unidos mantiene una férrea política de bloqueo contra Cuba, pero el pueblo avanza en distintas áreas. (Foto: wordpress)</media-caption>
+				</media><media media-type="video"><media-reference mime-type="video/mp4" source="http://media.tlsur.net/clips/telesur-video-2012-02-03-150156755427.mp4" alternate-text= "http://media.tlsur.net/clips/telesur-video-2012-02-03-150156755427.mp4" />
+								<media-caption xml:lang = "es-ES">Lejos de lo que se esperaba previamente, desde la llegada de Barack Obama al gobierno de Estados Unidos el bloqueo de ese país a Cuba sigue intact...</media-caption>
+							 </media>	         
+					<p>Cinco décadas se cumplen este viernes de la Proclama 3447 emitida por el fallecido presidente de Estados Unidos (EE.UU.), Jonh F. Kennedy, mediante la cual se propició un bloqueo económico y comercial contra Cuba, cuyas pérdidas son calculadas en unos 975 mil millones de dólares si se toma en consideración la depreciación del dólar frente al valor del oro.</p><p>Fue el 3 de febrero de 1962 cuando Kennedy decretó la Proclama 3447, que amparó una política de sanciones contra la isla, mantenida por nueve administraciones y recrudecida durante el mandato de George W. Bush (2001-2009).</p><p>A partir de esa ruptura unilateral de las relaciones, la política de enfrentamiento de las autoridades estadounidenses había tenido su punto más alto en abril de ese mismo año, con el frustrado intento de invasión con el desembarco en Playa Girón.</p><p>La excusa inicial fue replicar las expropiaciones que las flamantes autoridades isleñas dispusieron sobre bienes y empresas estadounidenses.</p><p>Durante dos décadas, la Asamblea de las Naciones Unidas ha condenado el bloqueo y exigido su levantamiento.</p><p>Las votaciones comenzaron el 24 noviembre de 1992, cuando la 47 sesión ordinaria de ese órgano aprobó por 59 votos a favor, tres en contra y 71 abstenciones la primera resolución en ese sentido.</p><p>Cada año se suman más países a la condena y la votación de 2011 concluyó con 186 votos a favor, dos en contra y tres abstenciones del informe titulado " Necesidad de poner fin al bloqueo económico, comercial y financiero impuesto por los Estados Unidos de América contra Cuba".</p><p>De acuerdo con un informe presentado por Cuba sobre la referida resolución, las pérdidas económicas ocasionadas superaban hasta el 2010 los 104 mil millones de dólares, cifra que rondaría los 975 mil millones si se considera la depreciación de esa divisa frente al oro en las últimas décadas.</p><p>El bloqueo también afectó el sistema de salud, en vista de que el país caribeño no ha logrado tener acceso a medicamentos y tecnologías provenientes de Estados Unidos, puesto que el bloqueo contempla sanciones a las empresas que tengan algún tipo de contacto con Cuba.</p><p>Incluso, esto han intentado aplicarlo más allá de sus propias fronteras a países como Venezuela y Ecuador.</p><p>La medida en ese sector se endureció en la administración de Bush, con la aprobación de la denominada Ley Torricelli (1992), que cercenó el comercio de medicinas y alimentos cubanos con las subsidiarias de compañías estadounidenses con base en terceros países.</p><p>A pesar de las dificultades que el país enfrenta, son conocidos los esfuerzos realizados para desarrollar y mantener novedosos programas de salud, y disponer de un sistema único, universal, gratuito, moderno y eficiente.</p><p>Cuba indica que entre sus logros se encuentran los índices de mortalidad infantil, los más bajos del mundo; el aumento en la esperanza de vida de los cubanos, más de 20 enfermedades eliminadas o controladas a partir de que sus formas graves desaparecieron, así como del programa de vacunación imperante, el cual protege a los niños contra 13 afecciones.</p> 
+						</body.content>						
+					</body>
+				</nitf>
+				

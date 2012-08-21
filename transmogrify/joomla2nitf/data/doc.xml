@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE nitf SYSTEM "http://www.iptc.org/std/NITF/3.5/specification/nitf-3-5.dtd">
+<nitf change.date="September 11, 2009" change.time="12:26" version="-//IPTC//DTD NITF 3.5//EN">
+  <head>
+    <title>Venezuela y Haití fortalecen vínculos con encuentro de presidentes en Caracas</title>
+    <tobject tobject.type="news">
+      <tobject.property tobject.property.type="Current"/>
+    </tobject>
+    <docdata management-status="usable">
+      <doc-id id-string="Venezuela-y-Haiti-fortalecen-vinculos-con-encuentro-de-presidentes-en-Caracas"/>
+      <evloc city="" state-prov="" iso-cc=""/>
+      <urgency ed-urg="5"/>
+      <date.issue norm=""/>
+      <date.release norm="20120203T201621-0530"/>
+      <doc.copyright/>
+      <doc.rights/>
+      <key-list>
+        <keyword key="Venezuela"/>
+        <keyword key="Haiti"/>
+        <keyword key="fortalecen"/>
+        <keyword key="vinculos"/>
+        <keyword key="encuentro"/>
+        <keyword key="presidentes"/>
+        <keyword key="Caracas"/>
+      </key-list>
+      <identified-content/>
+    </docdata>
+    <pubdata type="web" position.section="Latinoamerica" ex-ref=""/>
+    <revision-history/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Venezuela y Haití fortalecen vínculos con encuentro de presidentes en Caracas</hl1>
+      </hedline>
+      <distributor/>
+      <dateline>
+        <location>Venezuela</location>
+      </dateline>
+      <abstract>
+        <p>El presidente de Venezuela, Hugo Chávez, recibió este viernes en el Palacio de Miraflores (sede del Ejecutivo) a su homólogo de Haití, Michel Martelly, con quien realiza una reunión especial para el fortalecimiento de los lazos internacionales previo a los festejos del 20 aniversario de la rebelión cívico-militar del 4 de febrero.</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <media media-type="image">
+        <media-reference type="image/jpeg" source="http://exwebserv.telesurtv.net/multimedia/imagenes/IMG_ORIG_INTERNA_GRANDE_700x466_74504326.jpg" alternate-text="IMG_ORIG_INTERNA_GRANDE_700x466_74504326.jpg" height="466" width="700"/>
+        <media-caption>Chávez se reúne en Caracas con Presidente de Haití. (Foto: teleSUR)</media-caption>
+      </media>
+      <media media-type="image">
+        <media-reference type="image/jpeg" source="http://exwebserv.telesurtv.net/multimedia/imagenes/IMG_ORIG_INTERNA_GRANDE_700x466_74506591.jpg" alternate-text="IMG_ORIG_INTERNA_GRANDE_700x466_74506591.jpg" height="466" width="700"/>
+        <media-caption></media-caption>
+      </media>
+      <media media-type="video">
+        <media-reference type="image/jpeg" source="http://media.telesurtv.net/multimedia/videos/player/VIDEO_46423_217.flv" alternate-text="VIDEO_46423_217.flv"/>
+        <media-caption xml:lang="es-ES">Presidente Chávez recibe en Palacio de Gobierno a su par haitiano y a alta delegación de China</media-caption>
+      </media>
+      <p>El presidente de Venezuela, Hugo Chávez, recibió este viernes en el Palacio de Miraflores (sede del Ejecutivo) a su homólogo de Haití, Michel Martelly, con quien realiza una reunión especial para el fortalecimiento de los lazos internacionales previo a los festejos del 20 aniversario de la rebelión cívico-militar del 4 de febrero.&lt;/p&gt;&lt;p&gt;Durante la realización de los honores protocolares de recibimiento, Martelly estuvo acompañado por el actor estadounidense Sean Penn, nombrado recientemente embajador itinerante de Haití.&lt;/p&gt;&lt;p&gt;La estatal Agencia Venezolana de Noticias (AVN), reseñó que ambos mandatarios sostendrán un encuentro bilateral para evaluar proyectos de cooperación.&lt;/p&gt;&lt;p&gt;La visita a la Sede del Ejecutivo venezolano se da previo a la XI Cumbre de Jefes de Estado de la Alianza Bolivariana para los Pueblos de Nuestra América (ALBA), prevista para este domingo en la capital venezolana, Caracas, y en la que se tiene previsto evaluar el ingreso de más países al organismo multiestatal, entre ellos Haití.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Antes de este encuentro presidencial, Chávez se reunió en horas de la tarde con una delegación de alto nivel proveniente de China, constituida por varios representantes del Banco de Desarrollo de esa nación. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Chávez estuvo reunido con los delegados del país oriental por dos horas, y tras concluir, calificó el encuentro de "intenso y fructífero", a la vez que también resaltó a China como "uno de los principales aliados" de Venezuela. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;En el marco de su unidad bilateral, Venezuela y China establecieron un fondo conjunto, con el cual se desarrollan proyectos industriales y habitacionales en el país suramericano.</p>
+    </body.content>
+  </body>
+</nitf>

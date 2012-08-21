@@ -46,12 +46,21 @@
       description="Convert Plone content type from News Item to nitf into Plone"
       configuration="config/newsitem2nitf.cfg"
       />
+  <!-- 
       
   <transmogrifier:registerConfig
       name="transmogrify.joomla2nitf.sections"
       title="Joomla! sections"
       description="Import sections from Joomla! into Plone"
       configuration="config/sections.cfg"
+      />
+   -->
+
+  <!-- common utilities -->
+      
+  <utility
+      component="transmogrify.joomla2nitf.blueprints.article2nitfxml.Article2NitfXml"
+      name="transmogrify.joomla2nitf.blueprints.article2nitfxml"
       />
       
 </configure>
